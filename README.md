@@ -1,1 +1,1 @@
-https://basic-calculatorbyryan.netlify.app/
+https://basic-calculatorbyaryan.netlify.app/
